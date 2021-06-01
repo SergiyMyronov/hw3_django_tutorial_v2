@@ -1,0 +1,8 @@
+li a {
+    color: white;
+}
+
+body {
+    background: white url("images/mallorka.jpg") no-repeat;
+    background-size: 100%;
+}
